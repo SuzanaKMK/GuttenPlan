@@ -1,0 +1,46 @@
+{
+  "id": "df5ca1cf-59b8-4363-8284-d1a7b5de0d2f",
+  "name": "GuttenPlan GUI",
+  "publisher": "KMK Business",
+  "version": "26.0.1.54",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+ 
+  "dependencies": [
+   
+    {"id": "96b35a7b-1989-4acc-8024-00ccdbfce3e3",
+  "name": "GuttenPlanExt",
+  "publisher": "KMK Business",
+  "version": "26.0.0.16"},
+
+   {"id": "9fcd3951-9480-4cb5-8912-e92ca0a5fdf9",
+  "name": "GFD User Interface",
+  "publisher": "GFD - Guttenplan's",
+  "version": "1.0.2.6"},
+  {
+    "id": "d4fdc38a-cd2f-49c4-83dd-110bf4981ac7",
+  "name": "OnPremPrintNode",
+  "publisher": "KMK",
+  "version": "26.0.0.3"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50150
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
